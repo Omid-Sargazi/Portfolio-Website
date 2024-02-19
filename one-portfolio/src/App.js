@@ -1,7 +1,12 @@
 import React from "react";
+import Navbar from "./components/Navbar";
 
 const App = () => {
-  return <div className=" bg-gray-500 text-4xl font-signature">hello</div>;
+  return (
+    <div className="">
+      <Navbar />
+    </div>
+  );
 };
 
 export default App;
