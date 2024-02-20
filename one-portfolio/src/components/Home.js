@@ -31,7 +31,7 @@ const Home = () => {
           <img
             src={OmidImage}
             alt="my profile"
-            className=" rounded-2xl mx-auto w-2/3 md:w-full rounded-full"
+            className="mx-auto w-2/3 md:w-full rounded-full"
           />
         </div>
       </div>
