@@ -4,6 +4,7 @@ import Home from "./components/Home";
 import SocialLinks from "./components/SocialLinks";
 import About from "./components/About";
 import Portfolio from "./components/Portfolio";
+import Experirnce from "./components/Experirnce";
 
 const App = () => {
   return (
@@ -12,6 +13,7 @@ const App = () => {
       <Home />
       <About />
       <Portfolio />
+      <Experirnce />
       <SocialLinks />
     </div>
   );
